@@ -1,0 +1,38 @@
+.rel {
+    max-width: 126rem;
+    margin: auto;
+    position: relative;
+    padding: 0 3rem;
+    height: 100%;
+}
+
+.infoBtn {
+    display: inline-flex;
+    width: 17rem;
+    height: 8.6rem;
+    justify-content: center;
+    align-items: center;
+    background-color: #0082CA;
+    color: #fff;
+}
+
+.infoBtn span {
+    font-size: 22px;
+    padding-left: 20px;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
+}
+
+.infoBtn.dark {
+    background-color: #11416f;
+    margin-left: .5rem;
+
+}
+
+section h2 {
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: #2c2c2c;
+    line-height: 4.68rem;
+}
